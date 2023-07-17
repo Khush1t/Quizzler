@@ -67,7 +67,7 @@ class _ResultScreenState extends State<ResultScreen> {
             color: AppColor.secondaryColor,
             padding: const EdgeInsets.all(18.0),
             child: const Text(
-              "Reapeat the quiz",
+              "Repeat the quiz",
               style: TextStyle(color: Colors.white),
             ),
           ),
