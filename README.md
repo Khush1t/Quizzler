@@ -13,4 +13,4 @@ Contains Multiple Choice Questions regarding Road Safety and it's rules in India
 |<img width="260" alt="Quiz Screen" src="https://github.com/Khush1t/Quizzler/assets/76950403/99261fef-0c9f-414e-8a55-ed4d65084ba9">|<img width="260" alt="Quiz Screen" src="https://github.com/Khush1t/Quizzler/assets/76950403/de061829-8218-45c3-8c03-b819230cf088">|
 
 ### Result Screen
-<img width="260" alt="Result Screen" src="https://github.com/Khush1t/Quizzler/assets/76950403/f29f4e8b-9c31-4b1f-bdfe-56c100c6fc65">
+<img width="260" alt="Result Screen" src="https://github.com/Khush1t/Quizzler/assets/76950403/79c9e2fe-f0e1-4cbe-8579-a3032cdf144a">
