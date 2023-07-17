@@ -1,16 +1,16 @@
 # quizzler
+A MCQ based quiz application, made for the **Ministry of Road Transport and Highways(MORTH)** during the **Bharat Parv 23.**
 
-A new Flutter project.
+Contains Multiple Choice Questions regarding Road Safety and it's rules in India, with a final results screen in the end.
 
-## Getting Started
+## PREVIEW
+### Home Page
+<img width="260" alt="Home Screen" src="https://github.com/Khush1t/Quizzler/assets/76950403/d5804703-a3d0-4a00-96e4-aa5eeadc5668">
 
-This project is a starting point for a Flutter application.
+### Quiz Page
+|||
+|-|-|
+|<img width="260" alt="Quiz Screen" src="https://github.com/Khush1t/Quizzler/assets/76950403/99261fef-0c9f-414e-8a55-ed4d65084ba9">|<img width="260" alt="Quiz Screen" src="https://github.com/Khush1t/Quizzler/assets/76950403/de061829-8218-45c3-8c03-b819230cf088">|
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Result Screen
+<img width="260" alt="Result Screen" src="https://github.com/Khush1t/Quizzler/assets/76950403/f29f4e8b-9c31-4b1f-bdfe-56c100c6fc65">
